@@ -5,7 +5,7 @@ import time
 import sys
 import os
 
-ENTRY_POINT = "http://maneevent.paperboat42.com/"
+ENTRY_POINT = "http://maneevent.paperboat42.com/stats2021.php"
 CODE_OK = 200
 REFRESH_TIME = 5
 DIR_NAME = "data"
